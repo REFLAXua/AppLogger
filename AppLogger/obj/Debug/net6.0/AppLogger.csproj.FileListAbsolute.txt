@@ -1,0 +1,12 @@
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\AppLogger.csproj.AssemblyReference.cache
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\AppLogger.AssemblyInfoInputs.cache
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\AppLogger.AssemblyInfo.cs
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\AppLogger.csproj.CoreCompileInputs.cache
+G:\games\kpi\AppLogger\AppLogger\AppLogger\bin\Debug\net6.0\AppLogger.deps.json
+G:\games\kpi\AppLogger\AppLogger\AppLogger\bin\Debug\net6.0\AppLogger.dll
+G:\games\kpi\AppLogger\AppLogger\AppLogger\bin\Debug\net6.0\AppLogger.pdb
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\AppLogger.dll
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\refint\AppLogger.dll
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\AppLogger.pdb
+G:\games\kpi\AppLogger\AppLogger\AppLogger\obj\Debug\net6.0\ref\AppLogger.dll
